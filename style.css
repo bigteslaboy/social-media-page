@@ -68,9 +68,7 @@ body{
     margin: .5rem;
 }
 .attribution{
-    display: flex;
-    flex-direction: column;
-    color: wheat;
+  
 }
 
 @media (max-width: 600px){
